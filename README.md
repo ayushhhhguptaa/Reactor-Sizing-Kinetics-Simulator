@@ -5,6 +5,7 @@ This project is a computational tool designed to solve a core challenge in chemi
 
 🚀 Key Features
 Dual-Environment Simulation: Toggle between Isothermal (steady temperature) and Adiabatic (temperature increases as the reaction releases heat) conditions.
+
 Simpson’s 1/3 Rule Integration: Implemented a high-precision 5-point quadratic formula to calculate PFR volumes, offering better accuracy than standard linear methods.
 Levenspiel Plot Visualization: Generates industry-standard plots to visually compare reactor footprints and efficiency.
 Kinetics Engine: Models 1st-order reaction kinetics with temperature-dependent rate shifts.
