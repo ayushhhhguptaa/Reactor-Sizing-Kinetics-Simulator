@@ -28,7 +28,7 @@ Isothermal: We assume the tank is cooled perfectly. The reaction speed stays ste
 Adiabatic: We let the reaction heat itself up. In an exothermic reaction, this heat acts like a "turbo boost," speeding up the reaction and allowing us to use a smaller reactor to get the same result.
 
 🛠️ Tech Stack
-Language: Python 3.x
+Language: Python
 
 Libraries: NumPy (Mathematical Engine), Matplotlib (Data Visualization)
 Methodology: Numerical Analysis via Simpson’s 1/3 Rule
